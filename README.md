@@ -1,3 +1,13 @@
+# react_gallery_app-v1
+
+React App to display Flickr images via their search API
+
+Aimed to 'exceed expecations' for course standards.
+
+On page load the code makes 4 seperate calls to the Flickr API to get images for flowers, sunsets, dogs and muppets.
+
+Subsequent calls are made each time the search field is used.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
